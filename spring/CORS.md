@@ -71,3 +71,6 @@ public WebMvcConfigurer corsConfigurer() {
 ```
 
 - main함수에 Bean으로 configurer 추가
+
+
+## [참고 Link✓](https://evan-moon.github.io/2020/05/21/about-cors/)
